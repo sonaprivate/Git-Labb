@@ -1,1 +1,22 @@
-Detta är test på första skapade branch som heter branchtest
+Git Log!
+
+
+suay_@LAPTOP-3J883L3R MINGW64 ~/Gitrepon/Git-Labb (master)
+$ git log
+commit 1d8f1eb156394b5503dd890ab41bdf9a9c52cccf (HEAD -> master, origin/master, branchtest)
+Author: Sona Rahimova <suay_999@hotmail.com>
+Date:   Thu Nov 5 14:16:50 2020 +0100
+
+    En tredje commit för en txtfil som skapades omedvetet
+
+commit d0660fb3fd8c7c3e2131f4833004a4e8de5ca6b9
+Author: Sona Rahimova <suay_999@hotmail.com>
+Date:   Thu Nov 5 14:15:54 2020 +0100
+
+    Andra commit för första branch
+
+commit a4c1967ed03b0b5f61b81644e40947948fa474ef
+Author: Sona Rahimova <suay_999@hotmail.com>
+Date:   Thu Nov 5 14:05:18 2020 +0100
+
+    Första commit för ignorefil och readmefil
